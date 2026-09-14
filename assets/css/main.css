@@ -54,3 +54,16 @@
 th, td {
     vertical-align: middle !important; /* Centra el texto verticalmente */
 }
+
+.section-top-title h1{
+    color:red;
+}
+h2{
+    color: rgb(61, 27, 61);
+}
+h3{
+    color: black;
+}
+.bg-white{
+    background-color: red !important;
+}
